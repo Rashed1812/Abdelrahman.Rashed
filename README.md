@@ -1,1 +1,59 @@
-{"prefix":{"title":"Hi 👋, I'm","currentWork":"🔭 I’m currently Trainee @ITI","currentLearn":"🌱 I’m currently learning","collaborateOn":"👯 I’m looking to collaborate on","helpWith":"🤝 I’m looking for help with","ama":"💬 Ask me about","contact":"📫 How to reach me","resume":"📄 Know about my experiences","funFact":"⚡ Fun fact","portfolio":"👨‍💻 All of my projects are available at","blog":"📝 I regularly write articles on"},"data":{"title":"Abdelrahman Rashed","subtitle":"Software Engineer || .Net Developer","currentWork":"","currentLearn":"","collaborateOn":"","helpWith":"","ama":".Net","contact":"abdelra7man.rashed@gmail.com","funFact":"","twitterBadge":false,"visitorsBadge":false,"badgeStyle":"flat","badgeColor":"0e75b6","badgeLabel":"Profile views","githubProfileTrophy":false,"githubStats":false,"githubStatsOptions":{"theme":"","titleColor":"","textColor":"","bgColor":"","hideBorder":false,"cacheSeconds":null,"locale":"en"},"topLanguages":false,"topLanguagesOptions":{"theme":"","titleColor":"","textColor":"","bgColor":"","hideBorder":false,"cacheSeconds":null,"locale":"en"},"streakStats":false,"streakStatsOptions":{"theme":""},"devDynamicBlogs":false,"mediumDynamicBlogs":false,"rssDynamicBlogs":false},"link":{"currentWork":"","collaborateOn":"","helpWith":"","portfolio":"","blog":"","resume":"https://drive.google.com/drive/folders/1FSr_FSh1Ch8yPdUknSVXVLRtyWGO4m96?usp=drive_link"},"social":{"github":"rashed1812","dev":"","linkedin":"abdelrahman rashed","codepen":"","stackoverflow":"","kaggle":"","codesandbox":"","fb":"","instagram":"","twitter":"","dribbble":"","behance":"","medium":"","youtube":"","codechef":"","hackerrank":"","codeforces":"","leetcode":"","topcoder":"","hackerearth":"","geeks_for_geeks":"","discord":"","rssurl":""},"skills":{"11ty":false,"amplify":false,"android":false,"angular":true,"angularjs":false,"apachecordova":false,"appwrite":false,"arduino":false,"aws":false,"azure":false,"babel":false,"backbonejs":false,"bash":false,"blender":false,"bootstrap":true,"bulma":false,"c":false,"canvasjs":false,"cassandra":false,"chartjs":false,"circleci":false,"clojure":false,"cockroachdb":false,"codeigniter":false,"coffeescript":false,"couchdb":false,"cplusplus":false,"csharp":true,"css3":false,"cypress":false,"d3js":false,"dart":false,"django":false,"docker":false,"dotnet":true,"elasticsearch":false,"electron":false,"elixir":false,"ember":false,"erlang":false,"express":false,"figma":false,"firebase":false,"flask":false,"flutter":false,"framer":false,"gatsby":false,"gcp":false,"git":true,"go":false,"grafana":false,"graphql":false,"gridsome":false,"gtk":false,"gulp":false,"hadoop":false,"haskell":false,"heroku":false,"hexo":false,"hive":false,"html5":true,"hugo":false,"ifttt":false,"illustrator":false,"invision":false,"ionic":false,"jasmine":false,"java":false,"javascript":true,"jekyll":false,"jenkins":false,"jest":false,"kafka":false,"karma":false,"kibana":false,"kotlin":false,"kubernetes":false,"laravel":false,"linux":false,"mariadb":false,"materialize":false,"matlab":false,"middleman":false,"mocha":false,"mongodb":true,"mssql":true,"mysql":false,"nativescript":false,"nestjs":false,"nextjs":false,"nginx":false,"nim":false,"nodejs":false,"nuxtjs":false,"objectivec":false,"opencv":false,"openresty":false,"oracle":false,"pandas":false,"perl":false,"photoshop":false,"php":false,"postgresql":false,"postman":true,"pug":false,"puppeteer":false,"python":false,"pytorch":false,"qt":false,"quasar":false,"rabbitMQ":false,"rails":false,"react":false,"reactnative":false,"realm":false,"redis":false,"redux":false,"ruby":false,"rust":false,"sapper":false,"sass":false,"scala":false,"scikit_learn":false,"scully":false,"sculpin":false,"seaborn":false,"selenium":false,"sketch":false,"solr":false,"spring":false,"sqlite":false,"svelte":false,"swift":false,"symfony":false,"tailwind":false,"tensorflow":false,"travisci":false,"typescript":true,"unity":false,"unreal":false,"vagrant":false,"vuejs":false,"vuepress":false,"vuetify":false,"webpack":false,"wx_widgets":false,"xamarin":false,"xd":false,"zapier":false},"support":{"buyMeACoffee":""}}
+<h2 align="left">Hi 👋! My name is Aabdelrahman Rashed</h2>
+
+###
+
+<img align="right" height="134" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="30" alt="dot-net logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/abdelrahman-rashed-b4420b1b4/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/abdelra7man_ras1" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="hackerrank logo"  />
+  </a>
+  <a href="01011845887" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="whatsapp logo"  />
+  </a>
+  <a href="abdelra7man.rashed@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="gmail logo"  />
+  </a>
+  <a href="Abdelra7man.Rashed@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="microsoft-outlook logo"  />
+  </a>
+</div>
+
+###
